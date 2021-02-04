@@ -5,6 +5,7 @@
     <classes>
       <class name="tests.DemoTest">
         <methods>
+          <include name="testing"/>
           <include name="preKlase"/>
         </methods>
       </class> <!-- tests.DemoTest -->
